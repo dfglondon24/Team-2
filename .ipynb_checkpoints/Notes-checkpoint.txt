@@ -1,0 +1,14 @@
+Acronyms:
+DHS
+CBE - cycle learner 
+
+Key files (and dates):
+shared_data_read_only/Data/AfriKids/InternalData/Project_Surveys/FFL_2_Baseline_-_School_statistics_-enrolment__Infrastructure.xlsx
+shared_data_read_only/Data/AfriKids/InternalData/Project_Surveys/Final Data Rapid_Assessment Cleaned Data Shared.xlsx - counselling + scores
+shared_data_read_only/Data/AfriKids/InternalData/Project_Surveys/FFL_2_Baseline_-_School_statistics_-enrolment__Infrastructure.xlsx
+
+IDEAS:
+Classification methods (decision tress, LDA, QDA)
+Linear regression? 
+Inputs: men/women passed maths/science, access to amenities, number and types of projects run by charities
+Output: mortality, enrolment, child marriage
